@@ -142,11 +142,12 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 footer{
-    background-color: #111;
+   background-color: #111;
 width: 100%;
     position: fixed;
     bottom: 0px;
 padding: 10px  14px;
+
 }
 footer .foot p{
   text-align: center;
